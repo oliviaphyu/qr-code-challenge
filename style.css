@@ -33,7 +33,7 @@
 }
 
 .main-box .details{
-    padding: 25px;
+    padding: 30px 25px;
 }
 
 .main-box .details h1{
@@ -42,6 +42,7 @@
     font-size: 19px;
     font-weight: 700;
     color: var(--dark-blue);
+    line-height: 25px;
 }
 
 .main-box .details p{
@@ -51,6 +52,7 @@
     font-size: 15px;
     font-weight: 400;
     color: var(--grayish-blue);
+    line-height: 20px;
 }
 
 .attribution{
